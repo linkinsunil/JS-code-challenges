@@ -1,3 +1,3 @@
 # JS-code-challenges
  
-JavaScript mini programs for beginner practice
+Random JavaScript mini programs for practice
